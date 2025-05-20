@@ -1,4 +1,4 @@
-# Speech_to_Text Transcription with Wav2Vec2  
+# Speech_RECOGNITION_SYSTEM 
 A Python-based web app that transcribes `.wav` audio files into text using **Facebook's Wav2Vec2 model**. Built with **Streamlit** for seamless deployment.
 
 ## Project Details  
