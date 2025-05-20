@@ -37,8 +37,16 @@ A Python-based web app that transcribes `.wav` audio files into text using **Fac
 ### UI  
 - Users upload `.wav` files and receive transcriptions **instantly**.  
 
-## Installation  
-```bash
+
+## OutPut
+![Image](https://github.com/user-attachments/assets/625b8aaf-e74a-4fea-bb7a-deba0654bc96)
+
+
+
+
+
+
+
 git clone https://github.com/yourusername/speech-to-text-app.git
 cd speech-to-text-app
 pip install torch torchaudio transformers streamlit 
